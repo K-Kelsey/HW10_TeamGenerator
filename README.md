@@ -4,12 +4,12 @@
 This project is designed to take in user input to create a dynamic team consisting of at least one manager and an assortment of engineers and interns if so desired. 
 
 ##Table of Contents
-*[Installation] (#installation)
-*[Usage] (#usage)
-*[License](license)
-*[Contributing] (#contributing)
-*[Tests] (#tests)
-*[Questions](#questions)
+*[Installation:] (#installation)
+*[Usage:] (#usage)
+*[License:](license)
+*[Contribution:] (#contributing)
+*[Testing:] (#tests)
+*[Questions?](#questions)
 
 ##Installation
 To install this generator so that it functions properly, open the integrated terminal tied to the current project folder, then run 'npm install' in your terminal. This should download all necessary packages.
