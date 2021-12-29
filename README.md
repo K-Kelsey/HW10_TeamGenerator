@@ -17,6 +17,13 @@ To install this generator so that it functions properly, open the integrated ter
 ##Usage
 You can use this program to build either hypothetical or realistic task force teams. This is our introduction to object oriented programing so the main benefit to this app is to practice manipulating objects on the backend and creating new ones as well to be used on the front end.
 
+##Example
+Here you can see some key elements within the code, that ensures that these objects are possible to create, that the path is being directed to the right location and how the employee constructors were built:
+
+![test code](images/test.png)
+![constructor](images/constructor.png)
+![path](images/path.png)
+
  # License
             This project is license under the MIT license
             
