@@ -32,7 +32,7 @@ Here you can see some key elements within the code, that ensures that these obje
 Users can contribute to this project by adding features to the template literal that will provide a more elaborate and eye appealing webpage. Such as colors, background images, interactive animations etc.
 
 ##Tests
-This project can be tested by visiting my GitHub repositories, cloning the HW7_READMEGenerator, follow the installation instructions and then test the project yourself! After running the installation, run the command "npm test" to begin the tests
+This project can be tested by visiting my GitHub repositories, clone the HW10_TeamGenerator repository, follow the installation instructions and then test the project yourself! After running the installation, start the application in the command-line by typing in "npm start"
 
 ##Questions
 
