@@ -1,4 +1,4 @@
-# # Kaden
+## HW10_TeamGenerator
 ![MIT license](https://img.shields.io/badge/License-MIT-yellow.svg)(https://opensource.org/licenses/MIT)
 ## INSTRUCTIONS
 This project is designed to take in user input to create a dynamic team consisting of at least one manager and an assortment of engineers and interns if so desired. 
